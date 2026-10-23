@@ -1,3 +1,4 @@
+# Laboratorium3 Zadanie1
 # Program do rozwiązywania równania kwadratowego ax^2 + bx + c = 0
 
 # Pętla while do poprawnego wczytania trzech liczb
