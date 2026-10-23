@@ -3,7 +3,7 @@
 liczby = [7, 5.5, 2, 4, 3, 3.5, 5, 6, 1, 1, 1.1, 10, 8, 9, 8.5]
 
 # STAŁA: TUTAJ WPISZ SWÓJ NUMER ALBUMU
-NR_ALBUMU = "12345"  
+NR_ALBUMU = "12349"  
 
 print("Rozpoczynam działanie programu...")
 print(f"Lista początkowa: {liczby}\n")
