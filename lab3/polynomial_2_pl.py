@@ -45,3 +45,4 @@ else:
     else:
         # Brak rozwiązań rzeczywistych
         print("Delta < 0. Równanie nie ma rozwiązań w zbiorze liczb rzeczywistych.")
+
