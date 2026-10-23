@@ -29,16 +29,16 @@ if a == 0:
 # Przypadek 2: Równanie kwadratowe (a != 0)
 else:
     # Obliczanie wyróżnika równania (delty)
-    delta = b**2 - 4 * a * c
+    dt = b**2 - 4 * a * c
     print(f"Delta wynosi: {delta}")
 
     # Instrukcja warunkowa sprawdzająca liczbę rozwiązań w zbiorze liczb rzeczywistych
-    if delta > 0:
+    if dt > 0:
         # Dwa rozwiązania
-        x1 = (-b - delta**0.5) / (2 * a)
-        x2 = (-b + delta**0.5) / (2 * a)
+        x1 = (-b - dt**0.5) / (2 * a)
+        x2 = (-b + dt**0.5) / (2 * a)
         print(f"Delta > 0. Równanie ma dwa rozwiązania: x1 = {x1} oraz x2 = {x2}")
-    elif delta == 0:
+    elif dt == 0:
         # Jedno rozwiązanie
         x0 = -b / (2 * a)
         print(f"Delta = 0. Równanie ma jedno rozwiązanie: x0 = {x0}")
