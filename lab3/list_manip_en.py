@@ -1,3 +1,4 @@
+# Laboratory3 Task2
 numbers = [7, 5.5, 2, 4, 3, 3.5, 5, 6, 1, 1, 1.1, 10, 8, 9, 8.5]
 STUDENT_ID = "12349"  
 
