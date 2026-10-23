@@ -12,7 +12,6 @@ while True:
     except ValueError:
         print("That is not a valid number! Please try again.\n")
 
-# Informing the user that the calculation is starting
 print(f"\nSolving the equation: {a}x^2 + ({b})x + ({c}) = 0")
 
 # Case 1: Linear equation (a == 0)
