@@ -1,4 +1,4 @@
-# Laboratorium3 Task1
+# Laboratory3 Task1
 # Program to solve the quadratic equation ax^2 + bx + c = 0
 
 # While loop to ensure three valid numbers are entered
