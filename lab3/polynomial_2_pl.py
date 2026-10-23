@@ -30,7 +30,7 @@ if a == 0:
 else:
     # Obliczanie wyróżnika równania (delty)
     dt = b**2 - 4 * a * c
-    print(f"Delta wynosi: {delta}")
+    print(f"Delta wynosi: {dt}")
 
     # Instrukcja warunkowa sprawdzająca liczbę rozwiązań w zbiorze liczb rzeczywistych
     if dt > 0:
